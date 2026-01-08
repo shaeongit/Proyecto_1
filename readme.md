@@ -153,3 +153,7 @@ Contará como plus el desplegar la aplicación y compartir el link del
 mismo en la propia entrega. Os dejamos un breve vídeo para que veáis
 cómo desde un repositorio público o privado podéis alojar vuestra
 aplicación fácilmente.
+
+
+Aquí está el despliege:
+johndoe-blue.vercel.app
